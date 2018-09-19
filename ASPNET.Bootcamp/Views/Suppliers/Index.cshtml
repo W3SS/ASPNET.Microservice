@@ -1,0 +1,41 @@
+﻿@model IEnumerable<ASPNET.Bootcamp.DataAccess.Models.Supplier>
+
+@{
+    Layout = "~/Views/Shared/_LayoutAdministrator.cshtml";
+    ViewBag.Title = "Index";
+}
+<div class="row page-titles">
+    <div class="col-md-6 col-8 align-self-center">
+        <h3 class="text-themecolor m-b-0 m-t-0">Data Supplier</h3>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item">Home</a></li>
+        </ol>
+    </div>
+    <div class="col-md-6 col-4 align-self-center">
+
+    </div>
+</div>
+@Html.ActionLink("Create New", "Create", null, new { @class = "btn pull-left hidden-sm-down btn-success mdi mdi-plus-circle" })
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>Action</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+
+    </table>

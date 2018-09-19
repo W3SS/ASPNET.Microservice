@@ -1,0 +1,9 @@
+C:\Users\Flake\Documents\Visual Studio 2015\Projects\ASPNET.Bootcamp\ASPNET.Bootcamp.Core\bin\Debug\ASPNET.Bootcamp.Core.exe.config
+C:\Users\Flake\Documents\Visual Studio 2015\Projects\ASPNET.Bootcamp\ASPNET.Bootcamp.Core\bin\Debug\ASPNET.Bootcamp.Core.exe
+C:\Users\Flake\Documents\Visual Studio 2015\Projects\ASPNET.Bootcamp\ASPNET.Bootcamp.Core\bin\Debug\ASPNET.Bootcamp.Core.pdb
+C:\Users\Flake\Documents\Visual Studio 2015\Projects\ASPNET.Bootcamp\ASPNET.Bootcamp.Core\bin\Debug\EntityFramework.dll
+C:\Users\Flake\Documents\Visual Studio 2015\Projects\ASPNET.Bootcamp\ASPNET.Bootcamp.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Flake\Documents\Visual Studio 2015\Projects\ASPNET.Bootcamp\ASPNET.Bootcamp.Core\bin\Debug\EntityFramework.xml
+C:\Users\Flake\Documents\Visual Studio 2015\Projects\ASPNET.Bootcamp\ASPNET.Bootcamp.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Flake\Documents\Visual Studio 2015\Projects\ASPNET.Bootcamp\ASPNET.Bootcamp.Core\obj\Debug\ASPNET.Bootcamp.Core.exe
+C:\Users\Flake\Documents\Visual Studio 2015\Projects\ASPNET.Bootcamp\ASPNET.Bootcamp.Core\obj\Debug\ASPNET.Bootcamp.Core.pdb
